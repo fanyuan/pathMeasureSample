@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/work/github/pathMeasureSample/app/src/main/res/layout/activity_path6.xml" value="0.1" />
+        <entry key="..\:/work/storehouse/pathMeasureSample/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/work/storehouse/pathMeasureSample/app/src/main/res/layout/activity_path1.xml" value="0.1" />
+        <entry key="..\:/work/storehouse/pathMeasureSample/app/src/main/res/layout/activity_path2.xml" value="0.1" />
+        <entry key="..\:/work/storehouse/pathMeasureSample/app/src/main/res/layout/activity_path3.xml" value="0.1" />
+        <entry key="..\:/work/storehouse/pathMeasureSample/app/src/main/res/layout/activity_path5.xml" value="0.23777173913043478" />
+        <entry key="..\:/work/storehouse/pathMeasureSample/app/src/main/res/layout/activity_path6.xml" value="0.19375" />
+        <entry key="..\:/work/storehouse/pathMeasureSample/app/src/main/res/layout/activity_path_circle.xml" value="0.11538461538461539" />
+        <entry key="..\:/work/storehouse/pathMeasureSample/app/src/main/res/layout/activity_path_complex.xml" value="0.1" />
+        <entry key="..\:/work/storehouse/pathMeasureSample/app/src/main/res/layout/activity_path_view_drawable.xml" value="0.24114583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
